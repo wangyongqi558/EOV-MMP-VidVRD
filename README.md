@@ -5,7 +5,7 @@ The complete training and testing code will be released after the paper is offic
 
 ## To-Do List
 
-### 1. End to End Model Inference
+### 1. End-to-End Model Inference
 Make the end to end model ready for inference (Before June 30, 2025)
 
 ### 2. Object Detection Training
