@@ -3,7 +3,10 @@
 This repository is for the paper End-to-End Open-Vocabulary Video Visual Relationship Detection using Multi-modal Prompting (EOV-MMP). The provided [link](https://pan.baidu.com/s/1jZbnkYexAZQcGApyBUhQjw?pwd=jfec) contains the datasets and models obtained from the first three training steps.
 The complete training and testing code will be released after the paper is officially published. 
 
+The model weights and data files are available for download on Google Drive: https://drive.google.com/drive/folders/1IH5fyfZN7on_DMsv55385scd0YrlueTO?usp=drive_link
+
 ## To-Do List
+
 
 ### 1. End-to-End Model Inference
 Make the end to end model ready for inference (Before Oct 30, 2025. I've been extremely busy with my internship and autumn recruitment recently, so I really don't have time to organize the code. If you do have a code requirement, please send an email to 1285441164yq@gmail.com.)
